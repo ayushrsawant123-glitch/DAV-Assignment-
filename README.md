@@ -11,6 +11,8 @@ This project analyzes DLF's daily historical stock data using an ARIMA time-seri
 * **Forecasting:** Predicts and visualizes the closing prices for the next 30 business days alongside historical data.
 ### Screenshots
    <img width="1111" height="606" alt="Closing Price Trend" src="https://github.com/user-attachments/assets/6b598f6e-8e35-41f9-9fcc-e18206508416" />
+   <img width="1105" height="319" alt="Autocorrelation and Partial Correlation" src="https://github.com/user-attachments/assets/c940d1f7-c7b6-4597-b6b4-97d48d931464" />
+   <img width="739" height="569" alt="Closing Price Forecast" src="https://github.com/user-attachments/assets/e0f6bdb1-4240-409d-8512-453b584b2c89" />
 
 
 ## Prerequisites
