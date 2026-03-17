@@ -9,6 +9,10 @@ This project analyzes DLF's daily historical stock data using an ARIMA time-seri
 * **Autocorrelation Analysis:** Generates ACF and PACF plots on differenced data to determine optimal model parameters.
 * **ARIMA Modeling:** Fits an ARIMA(1, 1, 1) model to the historical time series data.
 * **Forecasting:** Predicts and visualizes the closing prices for the next 30 business days alongside historical data.
+### Screenshots
+    ![Historical Closing Price Forecast](./Images/Autocorrelation%20and%20Partial%20Correlation.png)
+    ![Historical Closing Price Trend](./Images/Closing%20Price%20Trend.png)
+    ![Historical AutocorrelationAnalysis](./Images/Autocorrelation%20and%20Partial%20Correlation.png)
 
 ## Prerequisites
 To run this project, you will need Python installed on your system along with the following libraries:
